@@ -1,9 +1,14 @@
-[
-  {
-    "address": "2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR",
-    "symbol": "LVSP",
-    "name": "LavaSpoon",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/LavaSpoon-LVSP/token-list/main/assets/mainnet/2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR/logo.png"
-  }
-]
+{
+  "name": "LavaSpoon Token List",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR",
+      "symbol": "LVSP",
+      "name": "LavaSpoon",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LavaSpoon-LVSP/token-list/main/assets/mainnet/2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR/logo.png",
+      "tags": ["utility-token"]
+    }
+  ]
+}
