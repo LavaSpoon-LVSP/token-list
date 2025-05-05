@@ -1,3 +1,18 @@
+About the Project
+
+LavaSpoon is a creative and dynamic project designed to merge culture, technology, and community. Whether it’s through fashion, digital tools, or collaborations, LavaSpoon empowers individuals to express themselves with authenticity and purpose.
+
+Driven by innovation and a global vision, the project aims to:
+
+- Launch bold, community-powered initiatives  
+- Promote creativity through design and storytelling  
+- Collaborate with visionary creators and builders  
+- Provide value through unique content, tools, or products  
+
+Join the LavaSpoon movement — where style meets strategy, and culture drives change.
+
+Follow us on Telegram: [https://t.me/boost/lavaspoon1](https://t.me/boost/lavaspoon1)
+
 ---
 # 🚨🚨🚨This repository is EOL 🚨🚨🚨
 ## Read below for instructions on new token metadata flow
