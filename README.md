@@ -207,7 +207,7 @@ LVSP is the native token of the LavaSpoon ecosystem, built on Solana to fuel com
 - Transparent updates via GitHub & Telegram
 
 ## 🔗 Contract Address:  
-[Insert your LVSP mint address here]
+[2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR]
 
 🌐 [Follow us on Telegram](https://t.me/boost/lavaspoon1)
 
