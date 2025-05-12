@@ -184,3 +184,73 @@ deploy, integrate, or use the Solana blockchain protocol code directly
 (e.g., as a node operator), and individuals that transact on the Solana
 blockchain through light clients, third party interfaces, and/or wallet
 software.
+
+# 🔥 LVSP Token — LavaSpoon Utility Token
+
+LVSP is the native token of the LavaSpoon ecosystem, built on Solana to fuel community-driven initiatives, creative tools, and cultural innovation.
+
+## 💰 Tokenomics
+
+| Allocation              | Amount         | Percentage |
+|-------------------------|----------------|------------|
+| Community & Rewards     | 25,000,000     | 25%        |
+| Circulating (Presale)   | 20,000,000     | 20%        |
+| Team & Development      | 10,000,000     | 10%        |
+| Liquidity Reserve       | 20,000,000     | 20%        |
+| Marketing & Growth      | 15,000,000     | 15%        |
+| Future Exchange Listings| 10,000,000     | 10%        |
+| Total Supply        | 100,000,000| 100%   |
+
+### 🧠 Strategy
+- Staged buybacks to maintain liquidity health
+- Gradual LP injections (e.g., 1M LVSP per 1 SOL)
+- Transparent updates via GitHub & Telegram
+
+## 🔗 Contract Address:  
+[Insert your LVSP mint address here]
+
+🌐 [Follow us on Telegram](https://t.me/boost/lavaspoon1)
+
+---
+
+Note: Full metadata details and JSON schema for Solana token registration are included below.
+
+{
+  "name": "Lavaspoon",
+  "symbol": "LVSP",
+  "description": "LVSP is the official token of Lavaspoon, combining utility, community, and creativity.",
+  "image": "https://lavaspoon.com/branding/lvsp-logo.png",  
+  "external_url": "https://lavaspoon.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    }
+  ],
+  "collection": {
+    "name": "Lavaspoon",
+    "family": "Lavaspoon Network"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://lavaspoon.com/branding/lvsp-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2Tbo9EQ1Jd7Jmf1YWGW2y6mCGmYis139rbYyUFZcKszR",
+        "share": 100
+      }
+    ]
+  }
+}
+
+
